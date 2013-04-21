@@ -1,0 +1,16 @@
+{
+  "name"          : "backbone",
+  "description"   : "Give your JS App some Backbone with Models, Views, Collections, and Events.",
+  "url"           : "http://backbonejs.org",
+  "keywords"      : ["model", "view", "controller", "router", "server", "client", "browser"],
+  "author"        : "Jeremy Ashkenas <jeremy@documentcloud.org>",
+  "dependencies"  : {
+    "xcoderzach/underscore"  : ">=1.4.3"
+  },
+  "scripts": [
+    "backbone.js"
+  ],
+  "main"          : "backbone.js",
+  "version"       : "1.0.0",
+  "license"       : "MIT"
+}
