@@ -5,7 +5,7 @@
   "keywords"      : ["model", "view", "controller", "router", "server", "client", "browser"],
   "author"        : "Jeremy Ashkenas <jeremy@documentcloud.org>",
   "dependencies"  : {
-    "xcoderzach/underscore"  : ">=1.4.3"
+    "xcoderzach/underscore"  : "1.x.x"
   },
   "scripts": [
     "backbone.js"
